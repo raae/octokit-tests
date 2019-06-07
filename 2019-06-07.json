@@ -1,1 +1,10 @@
-{"twitter":{"count":1270,"change":47},"instagram":{"count":219,"change":6}}
+{
+  "twitter": {
+    "count": 1270,
+    "change": 47
+  },
+  "instagram": {
+    "count": 219,
+    "change": 6
+  }
+}
