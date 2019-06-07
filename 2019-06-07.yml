@@ -1,5 +1,5 @@
 {
   "twitter": {
-    "error": "twitterCount is not defined"
+    "count": null
   }
 }
