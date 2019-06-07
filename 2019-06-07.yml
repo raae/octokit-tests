@@ -1,5 +1,8 @@
 {
   "twitter": {
     "count": 1270
+  },
+  "instagram": {
+    "error": "Unexpected token o in JSON at position 1"
   }
 }
