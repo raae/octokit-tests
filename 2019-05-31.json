@@ -1,10 +1,10 @@
 {
-  twitter: {
-    count: 1223,
-    change: 11
+  "twitter": {
+    "count": 1223,
+    "change": 11
   },
-  instagram: {
-    count: 213,
-    change: 7
+  "instagram": {
+    "count": 213,
+    "change": 7
   }
 }
