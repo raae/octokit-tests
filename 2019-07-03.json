@@ -1,15 +1,14 @@
 {
   "twitter": {
-    "raae": {
-      "count": 1306
+    "undefined": {
+      "count": 1306,
+      "provider": "twitter"
     }
   },
   "instagram": {
-    "benedicteraae": {
-      "count": 453
-    },
-    "raae.codes": {
-      "count": 218
+    "undefined": {
+      "count": 218,
+      "provider": "instagram"
     }
   }
 }
