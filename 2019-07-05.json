@@ -1,15 +1,18 @@
 {
   "twitter": {
     "raae": {
-      "count": 1308
+      "count": 1308,
+      "change": 0
     }
   },
   "instagram": {
     "benedicteraae": {
-      "count": 453
+      "count": 453,
+      "change": 0
     },
     "raae.codes": {
-      "count": 219
+      "count": 219,
+      "change": 0
     }
   }
 }
